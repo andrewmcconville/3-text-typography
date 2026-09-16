@@ -1,25 +1,22 @@
 html {
     background-color: aliceblue;
-    font-family: "Roboto", sans-serif;
+    font-family: "urca", sans-serif;
 }
 
-.site-name {
+.site-header {
     background-color: blueviolet;
     color: white;
-    font-family: "quador", serif;
-    font-weight: 100;
-    line-height: 1;
+    font-family: "Roboto Mono", monospace;
     font-size: 60px;
-}
-
-.section-name {
-    color:blueviolet;
-}
-
-.address {
-    text-align: right;
+    line-height: 40px;
+    font-weight: 100;
 }
 
 .callout {
     color: orange;
+    font-weight: 900;
+}
+
+.address {
+    text-align: right;
 }
